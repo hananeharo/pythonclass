@@ -1,0 +1,17 @@
+x=22
+y=24
+z=56
+n=43
+m=65
+w=64
+r=32
+a=80
+b=18
+l=11
+p=96
+q=69
+total=(x+y+z+n+m+w+r+a+b+l+p+q)
+avarage=total/12
+triple=(total)*3
+print(avarage)
+print(triple)
